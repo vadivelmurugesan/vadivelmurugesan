@@ -1,6 +1,6 @@
 ### Hi there, I'm Vadivel Murugesan 👋
 
-- I'm a technical lead. 
+- I'm a solution architect. 
 - I love and fix the architecture challenges.
 
 
