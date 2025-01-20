@@ -1,6 +1,7 @@
 ### Hi there, I'm Vadivel Murugesan 👋
 
-- I'm a solution architect. 
+- I'm a Machine Learning Engineer
+- I try to make AI simple for the organization
 - I love and fix the architecture challenges.
 
 
